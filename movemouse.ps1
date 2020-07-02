@@ -1,4 +1,4 @@
-#mousemove by Max G
+#mousemove by Excalibur025
 
 Clear-Host
 Echo "Moving mouse..."
