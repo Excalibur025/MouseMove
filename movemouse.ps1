@@ -1,3 +1,5 @@
+#mousemove by Max G
+
 Clear-Host
 Echo "Moving mouse..."
 Add-Type -AssemblyName System.Windows.Forms
